@@ -1,5 +1,5 @@
 # GAMs in Python
- Ejemplo de aplicación GAMs, presentado en el curso Statistical learning de la Universidad de Antioquía
+ It's an Example of applications in Generalized Additive Models (GAMs), presented in the course statistical learning. It is taught  at university of Antioquía, Medellín, Colombia.
 
 # Jupyter Notebook HTML and Google Colab
 
