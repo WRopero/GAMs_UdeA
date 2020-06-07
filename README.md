@@ -1,7 +1,9 @@
 # Implementación de GAMs en Python
  Ejemplo de aplicación GAMs, presentado en el curso Statistical learning de la Universidad de Antioquía
 
-# Jupyter Notebook HTML
+# Jupyter Notebook HTML and Google Colab
+
+https://colab.research.google.com/drive/1_eOdHpCysUUP59EItXF8KBogwnSISpLC?usp=sharing
 
 https://wropero.github.io/GAMs_UdeA/
 
