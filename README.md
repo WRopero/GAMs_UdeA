@@ -15,7 +15,7 @@ where `X.T = [X_1, X_2, ..., X_p]` are independent variables, `y` is the depende
 
 The feature functions `f_i()` are built using **penalized B splines**, which allow us to **automatically model non-linear relationships** without having to manually try out many different transformations on each variable.
 
-<img src=imgs/pygam_basis.png>
+<img src=https://pygam.readthedocs.io/en/latest/_images/pygam_basis.png>
 
 GAMs extend generalized linear models by allowing non-linear functions of features while maintaining additivity. Since the model is additive, it is easy to examine the effect of each `X_i` on `Y` individually while holding all other predictors constant.
 
