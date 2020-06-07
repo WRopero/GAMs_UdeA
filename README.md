@@ -3,10 +3,10 @@
 
 # Jupyter Notebook HTML and Google Colab
 
-Here, you can see two examples for regression and classification in jupyter Notebook.
+Here, you can see two examples for regression and classification in jupyter Notebook.<br>
 https://wropero.github.io/GAMs_UdeA/
 
-Here, you can run the code in python.
+Here, you can run the code in python. <br>
 https://colab.research.google.com/drive/1_eOdHpCysUUP59EItXF8KBogwnSISpLC?usp=sharing
 
 # By PyGAM
