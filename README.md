@@ -1,10 +1,11 @@
 # Implementación de GAMs en Python
  Ejemplo de aplicación GAMs, presentado en el curso Statistical learning de la Universidad de Antioquía
 
-#Jupyter Notebook HTML
+# Jupyter Notebook HTML
 
 https://wropero.github.io/GAMs_UdeA/
 
+# By PyGAM
 
 Generalized Additive Models (GAMs) are smooth semi-parametric models of the form:
 
