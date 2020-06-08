@@ -7,7 +7,7 @@ Here, you can see two examples for regression and classification in jupyter Note
 https://wropero.github.io/GAMs_UdeA/
 
 Here, you can run the code in python. <br>
-https://colab.research.google.com/drive/1_eOdHpCysUUP59EItXF8KBogwnSISpLC?usp=sharing
+https://colab.research.google.com/drive/1ICjwY9U-0ueYLQt4fQy-HmH49aDd76MU?usp=sharing
 
 # By PyGAM
 
